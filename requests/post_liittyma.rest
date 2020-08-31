@@ -1,0 +1,13 @@
+POST http://localhost:3001/api/liittymat
+Content-Type: application/json
+
+{
+            "operaattori": "Telia",
+            "nimi": "Rajaton 150",
+            "puhe": "rajaton",
+            "viestit": "rajaton",
+            "netti": 150,
+            "rajaton": true,
+            "eu": 15,
+            "hinta": 29.90,
+}
