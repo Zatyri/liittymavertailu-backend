@@ -9,5 +9,5 @@ Content-Type: application/json
             "netti": 150,
             "rajaton": true,
             "eu": 15,
-            "hinta": 29.90,
+            "hinta": 29.90
 }
