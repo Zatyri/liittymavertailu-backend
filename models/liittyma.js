@@ -9,6 +9,7 @@ const liittymaSchema = new mongoose.Schema({
     rajaton: {type: Boolean, required: true},
     eu: {type: Number, required: false},
     hinta: {type: Number, required: true},
+    myynnissa: {type: Boolean, required: true}
 })
 
 liittymaSchema.set('toJSON', {
