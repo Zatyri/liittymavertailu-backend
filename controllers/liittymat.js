@@ -24,6 +24,7 @@ liittymatRouter.post('/', async (req, res) => {
             rajaton: body.rajaton,
             eu: body.eu,
             hinta: body.hinta,
+            myynnissa: body.myynnissa
         })
 
         const saveLiittyma = await liittyma.save()
