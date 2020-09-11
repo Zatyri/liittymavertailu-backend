@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.820bdd21.chunk.css",
-    "main.js": "/static/js/main.a39cf3f0.chunk.js",
-    "main.js.map": "/static/js/main.a39cf3f0.chunk.js.map",
+    "main.css": "/static/css/main.2e89b0be.chunk.css",
+    "main.js": "/static/js/main.f539a731.chunk.js",
+    "main.js.map": "/static/js/main.f539a731.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4eb76e2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.4eb76e2c.js.map",
     "static/js/2.8a50048b.chunk.js": "/static/js/2.8a50048b.chunk.js",
     "static/js/2.8a50048b.chunk.js.map": "/static/js/2.8a50048b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9ee7e524ed7385a7e045524f78ffddff.js": "/precache-manifest.9ee7e524ed7385a7e045524f78ffddff.js",
+    "precache-manifest.7a24ed703b4fd9d26c151b9ce7551ef3.js": "/precache-manifest.7a24ed703b4fd9d26c151b9ce7551ef3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.820bdd21.chunk.css.map": "/static/css/main.820bdd21.chunk.css.map",
+    "static/css/main.2e89b0be.chunk.css.map": "/static/css/main.2e89b0be.chunk.css.map",
     "static/js/2.8a50048b.chunk.js.LICENSE.txt": "/static/js/2.8a50048b.chunk.js.LICENSE.txt",
     "static/media/Elisa_logo.png": "/static/media/Elisa_logo.fc91396f.png",
     "static/media/Telia_logo.png": "/static/media/Telia_logo.e8d056bb.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4eb76e2c.js",
     "static/js/2.8a50048b.chunk.js",
-    "static/css/main.820bdd21.chunk.css",
-    "static/js/main.a39cf3f0.chunk.js"
+    "static/css/main.2e89b0be.chunk.css",
+    "static/js/main.f539a731.chunk.js"
   ]
 }
